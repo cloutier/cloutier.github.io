@@ -19,7 +19,9 @@ body {
   font-weight: 700;
 }
 
-
+.polaroid {
+  box-shadow:  #888888;
+}
 
 /* Full Page Image Header Area */
 
