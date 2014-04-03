@@ -91,6 +91,14 @@ i.service-icon {
   text-align: center;
 }
 
+a.service-link {
+  color: white;
+}
+
+a.service-link:hover {
+  color: rgb(220,220,220);
+}
+
 /* Callout */
 
 .callout {
@@ -131,9 +139,7 @@ i.service-icon {
 .call-to-action .btn {
   margin: 10px;
 }
-.coinbase-button {
-  padding: 10px;
-}
+
 
 
 /* Footer */
