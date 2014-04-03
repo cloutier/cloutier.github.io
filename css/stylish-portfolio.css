@@ -20,7 +20,14 @@ body {
 }
 
 .polaroid {
-  box-shadow:  #888888;
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+  border-color: white;
+  border-width: 4px;
+  outline: 2px solid black;
+  background: url(https://avatars0.githubusercontent.com/u/1014864?s=200) no-repeat center center; 
+
 }
 
 /* Full Page Image Header Area */
