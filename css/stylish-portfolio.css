@@ -25,7 +25,7 @@ body {
   border-style: solid;
   border-color: white;
   border-width: 4px;
-  outline: 2px solid black;
+  outline: 1px solid black;
   background: url(https://avatars0.githubusercontent.com/u/1014864?s=200) no-repeat center center; 
 
 }
@@ -169,7 +169,7 @@ i.scroll:hover {
 @media (max-width: 768px) {
 	
   .header {
-	background: url(../img/bg.jpg) no-repeat center center scroll; 
+	background: url(../img/cover.jpg) no-repeat center center scroll; 
   }
 
   .callout {
