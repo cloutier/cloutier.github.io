@@ -173,6 +173,7 @@ i.scroll:hover {
   }
   #cover-box {
 	border-radius: 0px;
+	width: 100%;
   }
   .callout {
 	background: url(https://dl.dropboxusercontent.com/u/17820773/DSC_0210.jpg) no-repeat center center scroll; 
