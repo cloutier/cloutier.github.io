@@ -105,7 +105,8 @@ a.service-link:hover {
   display: table;
   height: 400px;
   width: 100%;
-  background: url(../img/callout.jpg) no-repeat center center fixed; 
+  background: url(https://dl.dropboxusercontent.com/u/17820773/DSC_0210.jpg) no-repeat center center fixed; 
+  text-shadow: 0px 0px 4px rgba(150, 150, 150, 1);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -170,11 +171,15 @@ i.scroll:hover {
   .header {
 	background: url(../img/cover.jpg) no-repeat center center scroll; 
   }
-
-  .callout {
-	background: url(../img/callout.jpg) no-repeat center center scroll; 
+  #cover-box {
+	border-radius: 0px;
   }
-
+  .callout {
+	background: url(https://dl.dropboxusercontent.com/u/17820773/DSC_0210.jpg) no-repeat center center scroll; 
+  }
+  .polaroid {
+	margin: auto;
+  }
   .map {
 	height: 75%;
   }
